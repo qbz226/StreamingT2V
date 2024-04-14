@@ -20,4 +20,4 @@ t2v_enhanced/checkpoints
 
 # remove vim temporary files
 *~
-
+conda create -n st2v python=3.10
